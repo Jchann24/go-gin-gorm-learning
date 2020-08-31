@@ -6,3 +6,10 @@
 - Go - [Link](https://golang.org/)
 - Gin - [Link](https://gin-gonic.com/)
 - GORM - [Link](https://gorm.io/index.html)
+
+## Testing
+
+    cd directory
+    go run main.go
+
+> _http://localhost:8080/user-api/user_
